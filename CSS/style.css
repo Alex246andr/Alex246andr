@@ -157,3 +157,15 @@ body {
     width: 100%;
     margin-bottom: 60pt;
 }
+.shop .artblock img {
+    width: 100%;
+    margin-bottom: 2pt;
+    margin-top:  35pt;
+}
+.shop .artblock img:first-child {
+    margin-top: 0;
+}
+.shop .artblock p {
+    font-weight: bolder;
+    font-size: 3em;
+}
